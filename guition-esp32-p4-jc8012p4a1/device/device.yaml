@@ -90,7 +90,7 @@ touchscreen:
     transform:
       swap_xy: false
       mirror_x: false
-      mirror_y: true
+      mirror_y: false
     on_release:
       then:
         - if:
